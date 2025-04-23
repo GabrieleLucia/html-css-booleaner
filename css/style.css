@@ -25,7 +25,8 @@ body {
     padding: 0;
 }
 .header-bg {*
-    background-image: url(../img/pattern.png);
+    background-image: 
+    
     background-repeat: repeat;
     padding: 20px;
 }
@@ -36,5 +37,5 @@ body {
     }
     .main title {
         text-align: center;
-        
+
     }
