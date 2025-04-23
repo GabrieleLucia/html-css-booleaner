@@ -1,0 +1,40 @@
+header {      
+    background-image: url(../img/pattern.png);
+}
+
+.logo {
+    width: 100px;
+}
+
+/* SELEZIONE {
+ cosa: valore
+}*/
+
+.lorem {
+
+}
+
+#test {
+
+}
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header-bg {*
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    padding: 20px;
+}
+    .logo {
+       color: white;
+       font size: 2px
+       margin: 0;
+    }
+    .main title {
+        text-align: center;
+        
+    }
